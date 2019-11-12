@@ -9,4 +9,8 @@ public class Demo1 {
     public void fz(){
         System.out.println("servent-saber的fz");
     }
+    public void zd(){
+        System.out.println("servent-saber的zd");
+    }
+
 }
